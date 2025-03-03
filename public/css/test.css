@@ -1,0 +1,45 @@
+
+
+.buying .test{
+    margin: 0;
+}
+
+.buying h1{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+
+
+.test{
+    margin-top: 200px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+.test .card-group{
+    margin-right: 80px;
+    margin-left: 20px;
+}
+
+.test .card-group .card
+{
+    text-align: center;
+    width: 100%;
+    
+    margin-left: 70px;
+}
+
+.test .card-group .card img
+{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.buying1{
+    display: none;
+}
+
+

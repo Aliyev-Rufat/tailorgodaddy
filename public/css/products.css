@@ -1,0 +1,32 @@
+
+
+
+
+.products{
+    margin-top: 100px;
+}
+
+.products h1{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.products-mean .card-group{
+    padding: 20px;
+}
+
+.products-mean .card-group .card{
+    padding:10px;
+    width: 100%;
+}
+
+.products-mean .card-group .card img{
+    padding:10px;
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.products-mean .card-group .card-body{
+    text-align: center;
+}
